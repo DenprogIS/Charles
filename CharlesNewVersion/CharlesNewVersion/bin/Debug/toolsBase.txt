@@ -1,0 +1,2 @@
+Открой папку>Down Up Return >C:\Users\user\Desktop\home> first second> first second>C:\Users\user\Desktop\home\>endOfTool
+Удали файл>Down Up >C:\Users\user\Desktop\home\first> 1.txt> first second>C:\Users\user\Desktop\home\>endOfTool
